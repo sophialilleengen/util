@@ -1,0 +1,18 @@
+axes.edgecolor: white
+axes.facecolor: 212121
+axes.labelcolor: white
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+figure.edgecolor: 212121
+figure.facecolor: 212121
+grid.color: white
+lines.color: white
+patch.edgecolor: white
+savefig.edgecolor: 212121
+savefig.facecolor: 212121
+text.color: white
+xtick.color: white
+ytick.color: white
+axes.labelsize: 20
+xtick.labelsize: 20
+ytick.labelsize: 20
+legend.fontsize: 20

@@ -1,0 +1,26 @@
+axes.titlesize : 18
+axes.labelsize : 16
+axes.linewidth : 1.5
+lines.linewidth : 1.5
+lines.markersize : 10
+xtick.top : True
+ytick.right : True
+xtick.direction : in
+ytick.direction : in
+xtick.minor.visible : True
+ytick.minor.visible : True
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.major.width : 1.5
+xtick.minor.width : 1.0
+ytick.major.width : 1.5
+ytick.minor.width : 1.0
+font.size : 16
+
+savefig.format : png
+savefig.bbox : tight
+savefig.dpi : 150
+
+image.cmap   : inferno        
+axes.prop_cycle    : cycler('color', ['xkcd:hot pink', 'xkcd:ultramarine blue', 'xkcd:pumpkin orange', 'xkcd:bright green', 'xkcd:strawberry', 'xkcd:caramel', 'xkcd:vibrant purple', 'xkcd:dandelion', 'xkcd:mud green', 'xkcd:bright turquoise'])
+
