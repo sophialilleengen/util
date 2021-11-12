@@ -1,3 +1,5 @@
+## from https://github.com/KerryHalupka/custom_colormap/blob/master/generate_colormap.py
+
 import matplotlib.colors as mcolors
 import numpy as np
 
